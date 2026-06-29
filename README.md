@@ -10,6 +10,12 @@ This project analyses over **149,000 real sales transactions** to uncover revenu
 
 ---
 
+## 📸 Dashboard Preview
+
+![Coffee Shop Dashboard](dashboard.png)
+
+---
+
 ## 🗂️ Files
 
 | File | Description |
